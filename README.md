@@ -1,0 +1,2 @@
+# GraficoConDjango
+Proyecto educativo
